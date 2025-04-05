@@ -24,8 +24,8 @@ This Python tool allows you to create custom PDF documents containing Code 128 b
 ### Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/username/barcode-generator.git
-   cd barcode-generator
+   git clone https://github.com/Timon-Schneider/python-sequential-barcode-generator.git
+   cd python-sequential-barcode-generator
    ```
 
 2. Install the required dependencies:
@@ -115,8 +115,8 @@ Dieses Python-Tool ermöglicht die Erstellung von PDF-Dokumenten mit fortlaufend
 ### Installation
 1. Klone dieses Repository:
    ```
-   git clone https://github.com/username/barcode-generator.git
-   cd barcode-generator
+   git clone https://github.com/Timon-Schneider/python-sequential-barcode-generator.git
+   cd python-sequential-barcode-generator
    ```
 
 2. Installiere die erforderlichen Abhängigkeiten:
